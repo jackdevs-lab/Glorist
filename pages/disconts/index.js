@@ -3,7 +3,7 @@ import Title from "../../components/title"
 import Description from "../../components/description"
 import OpenGraph from "../../components/open-graph"
 // next api
-import Image from "next/image"
+import Image from "next/legacy/image"
 // component
 import Breadcrumb from "../../components/contents/breadcrumb"
 import PageName from "../../components/contents/page-name"

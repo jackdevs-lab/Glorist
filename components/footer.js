@@ -1,5 +1,5 @@
 import Link from "next/link"
-import Image from "next/image"
+import Image from "next/legacy/image"
 
 const socialMedia = [
   {name: 'instagram', url: 'https://www.instagram.com', image: '/svgs/instagram.svg'},

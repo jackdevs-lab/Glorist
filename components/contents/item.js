@@ -2,7 +2,7 @@
 // react
 import { useRef, useEffect } from "react"
 // next
-import Image from "next/image"
+import Image from "next/legacy/image"
 import Link from "next/link"
 // redux
 import { useDispatch, useSelector } from "react-redux"
